@@ -9,19 +9,11 @@ Ce jeu a été réalisé en un week-end, en me donnant le défi de voir ce que j
 | ------------- |:-------------:|
 | Avancer       | Z             |
 | Reculer       | S             |
+| aller à gauche      | Q             |
+| aller à droite      | D             |
+| Left Shift      | courir             |
+| Échap      | pause           |
 
-Z : avancer
-
-S : reculer
-
-Q : aller à gauche
-
-D : aller à droite
-
-
-Left Shift : courir
-
-Échap : pause
 
 Clique gauche de la souris : tirer
 Bouger la souris permet de viser.
