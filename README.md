@@ -1,4 +1,4 @@
-# 2DaysGameChallenge
+# 2DaysGameChallenge [Demo](https://bluestonered.github.io/2DaysGameChallenge/)
 
 ## Description:
 
