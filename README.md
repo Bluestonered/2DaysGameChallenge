@@ -19,9 +19,9 @@ Ce jeu a été réalisé en un week-end, en me donnant le défi de voir ce que j
 
 ___
 
-## Description:
+## Description: 
 
-This game was made over a weekend, challenging myself to see what I could create in just 2 days. Although there are some issues to fix with the WebGL implementation, the game is still playable at the moment. I plan to continue updating it, including adding a scoreboard and re-balancing the game, as this has not yet been taken into account.
+This game was made over a weekend to challenge myself and see what I could create in just 2 days. Although there are some issues to fix with the WebGL implementation, the game is playable. I will continue to update it, include a scoreboard and re-balance the game, as this has not yet been taken into account.
 
 
 ## Controls:
