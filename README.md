@@ -5,9 +5,13 @@ FR:
 ## Contrôles :
 
 Z : avancer
+
 S : reculer
+
 Q : aller à gauche
+
 D : aller à droite
+
 
 Left Shift : courir
 
@@ -23,9 +27,13 @@ EN:
 ## Controls:
 
 Z: move forward
+
 S: move backward
+
 Q: move left
+
 D: move right
+
 
 Left Shift: run
 
